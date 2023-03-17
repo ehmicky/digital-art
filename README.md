@@ -1,4 +1,4 @@
-Examples of digital art. Those were done in my spare time, as a humble amateur, and are far from matching the level of a professional artist, although I had lots of fun creating those.
+Examples of digital art. Those were done in my spare time, as a humble amateur, and are far from matching the level of a professional artist. However, I have lots of fun creating those!
 
 ## 3D
 
