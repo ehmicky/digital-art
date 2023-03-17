@@ -13,7 +13,12 @@ Created with Blender and Photoshop.
 
 Created with Photoshop.
 
+Before:
+
 <img alt="snail_before.png" src="snail_before.png" width="333"/>
+
+After:
+
 <img alt="snail_after.png" src="snail_after.png" width="750"/>
 
 ## Drawing
