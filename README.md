@@ -32,11 +32,11 @@ Created with Illustrator and Photoshop.
 
 Created with After Effects.
 
-[Video](light.wmv) of a light travelling with some music.
+[Video](light.webm) of a light travelling with some music.
 
 ## Logos
 
-Created with Gimp and Inkscape. Please see the [following repository](https://github.com/ehmicky/design) for more logos.
+Created with Gimp and Inkscape. More logos can be found in the [following repository](https://github.com/ehmicky/design).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehmicky/design/main/handle-cli-error/handle-cli-error_dark.svg"/>
